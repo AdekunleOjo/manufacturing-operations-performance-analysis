@@ -38,7 +38,7 @@ This project addresses these gaps by transforming raw data into actionable insig
 
 ### 🔹 1. Production Performance Overview
 
-![manufacturing-operations-performance-analysis](https://github.com/AdekunleOjo/manufacturing-operations-performance-analysis/blob/main/Manufacturing_performance_analysis.jpg)
+![manufacturing-operations-performance-analysis](https://github.com/AdekunleOjo/manufacturing-operations-performance-analysis/blob/main/Manufacturing_Overview_Analysis.jpg)
 
 Production does not scale efficiently with volume. Higher-output lines experience proportionally higher downtime, indicating capacity strain and underlying process inefficiencies. Variations across product lines suggest inconsistent execution and lack of process stability, reducing output reliability as demand increases.
 
@@ -46,15 +46,14 @@ Production does not scale efficiently with volume. Higher-output lines experienc
 
 ### 🔹 2. Downtime Root Cause Analysis
 
-![manufacturing-operations-performance-analysis](https://github.com/AdekunleOjo/manufacturing-operations-performance-analysis/blob/main/Manufacturing_downtime_analysis.jpg)
-
+![manufacturing-operations-performance-analysis](https://github.com/AdekunleOjo/manufacturing-operations-performance-analysis/blob/main/Manufacturing_Downtime_Analysis.jpg)
 Downtime is recurring rather than isolated, driven by both operator-related factors and machine issues. This reflects a combination of process gaps and reactive maintenance, where problems are addressed during production instead of being prevented.
 
 ---
 
 ### 🔹 3. Operator Performance Analysis
 
-![manufacturing-operations-performance-analysis](https://github.com/AdekunleOjo/manufacturing-operations-performance-analysis/blob/main/Manufacturing_operator_analysis.jpg)
+![manufacturing-operations-performance-analysis](https://github.com/AdekunleOjo/manufacturing-operations-performance-analysis/blob/main/Manufacturing_Operator_Analysis.jpg)
 
 Operator performance varies under workload pressure. Higher output is often accompanied by increased errors and downtime, indicating that efficiency is influenced by system conditions and process design, not just individual capability. This highlights the need for standardization and improved operating conditions.
 
